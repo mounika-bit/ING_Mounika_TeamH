@@ -1,0 +1,99 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-03-19T08:36:33.200Z",
+        "line": 3,
+        "name": "Launching firstcry website",
+        "description": "",
+        "id": "validating-first-cry-website-order;launching-firstcry-website",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "launching browser",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "hit the firstcry URL",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "First cry website launched",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-19T08:36:33.313Z",
+        "line": 9,
+        "name": "Mouse hover on All categories and boys Fashion",
+        "description": "",
+        "id": "validating-first-cry-website-order;mouse-hover-on-all-categories-and-boys-fashion",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "Mouse hover on All categories and boys fashion",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "Open the sub categories",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "Open the sub categories of Boys fashion",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test2"
+          }
+        ]
+      }
+    ],
+    "name": "Validating First cry website order",
+    "description": "",
+    "id": "validating-first-cry-website-order",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/FirstCry.feature",
+    "tags": []
+  }
+]
